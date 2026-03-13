@@ -1,4 +1,4 @@
-# Event on Knowledge Graphs and ontologies for Defence and National Security
+# Knowledge Graphs and Ontologies for Defence and National Security
 Turing Event on the funded KG projects by the Grand Challenge on Defence and National Security
 
 **11:00-11:15** Welcome
