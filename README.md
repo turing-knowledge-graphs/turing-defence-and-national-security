@@ -1,5 +1,12 @@
 # Knowledge Graphs and Ontologies for Defence and National Security
-Turing Event on the funded KG projects by the Grand Challenge on Defence and National Security
+Turing Event on the funded KG projects by the Grand Challenge on Defence and National Security. 
+
+**When:** April 15, 2026
+
+**Where:** [The Alan Turing Institute](https://www.turing.ac.uk/contact-us/how-get-alan-turing-institute)
+
+
+**Agenda:**
 
 **11:00-11:15** Welcome
 
