@@ -17,7 +17,7 @@ Turing Event on the funded KG projects by the Grand Challenge on Defence and Nat
 **12:45-13:45** Lunch and networking
 
 **13:45-14:45** Keynote/Invited speaker (45 min + questions).  
-- [Alexandra Luck](https://www.linkedin.com/in/alexandra-luck-9804a45/), Programme Director of the National Digital Twin Programme (NDTP)
+- [Alexandra Luck](https://www.linkedin.com/in/alexandra-luck-9804a45/) (Programme Director of the National Digital Twin Programme (NDTP)) and [Alex Atudosie](https://www.linkedin.com/in/atudosie/) (Programme Manager NDTP).
 
 **14:45-16:15** Overview of the funded projects: Phase 1 + Phase 2 planning (Part 2)
 - 2 x 45 min (allowing at least 15 min for questions).
