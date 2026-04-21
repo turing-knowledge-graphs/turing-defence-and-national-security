@@ -33,9 +33,15 @@ Turing Event on the funded KG projects by the Grand Challenge on Defence and Nat
 **Projects:**
 - CLSKG: A Common Logic Substrate for Multi-LLM Integration with Uncertainty & Ontology-Based Safety Checks
   - PI: [Gustavo Carneiro ](https://www.surrey.ac.uk/people/gustavo-carneiro)
+  - Slides:
 - Uncertainty-Aware Entity Resolution for Robust Knowledge Graphs
   - PIs: [Direnc Pekaslan](https://www.nottingham.ac.uk/computerscience/people/direnc.pekaslan1) and [Christian Wagner](https://christianwagner.weebly.com/)
+  - Slides: 
 - PICASO: Probabilistic Conceptual Spaces Sensemaking under Uncertainty
-  - PI: [Shoaib Jameel](https://www.southampton.ac.uk/people/5zdg5y/doctor-shoaib-jameel) 
-- [GUARD: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI](https://ernestojimenezruiz.github.io/projects/guard/)
+  - PI: [Shoaib Jameel](https://www.southampton.ac.uk/people/5zdg5y/doctor-shoaib-jameel)
+  - Web: [https://ubaidazam.github.io/PICASO/](https://ubaidazam.github.io/PICASO/)
+  - Slides:
+- GUARD: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI
   - PI: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/)
+  - Web: [https://ernestojimenezruiz.github.io/projects/guard/](https://ernestojimenezruiz.github.io/projects/guard/)
+  - Slides: 
