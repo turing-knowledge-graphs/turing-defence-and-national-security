@@ -6,7 +6,25 @@ Turing Event on the funded KG projects by the Grand Challenge on Defence and Nat
 **Where:** [The Alan Turing Institute](https://www.turing.ac.uk/contact-us/how-get-alan-turing-institute)
 
 
-**Agenda:**
+
+## Projects:
+- CLSKG: A Common Logic Substrate for Multi-LLM Integration with Uncertainty & Ontology-Based Safety Checks
+  - PI: [Gustavo Carneiro ](https://www.surrey.ac.uk/people/gustavo-carneiro)
+  - Resources: [[slides](https://turing-knowledge-graphs.github.io/turing-defence-and-national-security/resources/CLSKG_slides.pdf)]
+- Uncertainty-Aware Entity Resolution for Robust Knowledge Graphs
+  - PIs: [Direnc Pekaslan](https://www.nottingham.ac.uk/computerscience/people/direnc.pekaslan1) and [Christian Wagner](https://christianwagner.weebly.com/)
+  - Resources: [[slides](https://turing-knowledge-graphs.github.io/turing-defence-and-national-security/resources/UncertaintyAwareEntityResolution_slides.pdf)]
+- PICASO: Probabilistic Conceptual Spaces Sensemaking under Uncertainty
+  - PI: [Shoaib Jameel](https://www.southampton.ac.uk/people/5zdg5y/doctor-shoaib-jameel)
+  - Web: [https://ubaidazam.github.io/PICASO/](https://ubaidazam.github.io/PICASO/)
+  - Resources: [[slides](https://turing-knowledge-graphs.github.io/turing-defence-and-national-security/resources/PICASO-Showcase.html)]
+- GUARD: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI
+  - PI: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/)
+  - Web: [https://ernestojimenezruiz.github.io/projects/guard/](https://ernestojimenezruiz.github.io/projects/guard/)
+  - Resources: [[slides](https://turing-knowledge-graphs.github.io/turing-defence-and-national-security/resources/GUARD_slides_april15.pdf)]
+
+
+## Agenda:
 
 **11:00-11:15** Welcome
 
@@ -29,20 +47,3 @@ Turing Event on the funded KG projects by the Grand Challenge on Defence and Nat
 
 **17:15-** Closing + social activity
 
-
-**Projects:**
-- CLSKG: A Common Logic Substrate for Multi-LLM Integration with Uncertainty & Ontology-Based Safety Checks
-  - PI: [Gustavo Carneiro ](https://www.surrey.ac.uk/people/gustavo-carneiro)
-  - Slides: [[slides](https://github.com/turing-knowledge-graphs/turing-defence-and-national-security/blob/main/resources/CLSKG_slides.pdf)]
-  - Resources: [[slides](https://github.com/turing-knowledge-graphs/turing-defence-and-national-security/blob/main/resources/CLSKG_slides.pdf)]
-- Uncertainty-Aware Entity Resolution for Robust Knowledge Graphs
-  - PIs: [Direnc Pekaslan](https://www.nottingham.ac.uk/computerscience/people/direnc.pekaslan1) and [Christian Wagner](https://christianwagner.weebly.com/)
-  - Slides: [[slides](https://github.com/turing-knowledge-graphs/turing-defence-and-national-security/blob/main/resources/UncertaintyAwareEntityResolution_slides.pdf)]
-- PICASO: Probabilistic Conceptual Spaces Sensemaking under Uncertainty
-  - PI: [Shoaib Jameel](https://www.southampton.ac.uk/people/5zdg5y/doctor-shoaib-jameel)
-  - Web: [https://ubaidazam.github.io/PICASO/](https://ubaidazam.github.io/PICASO/)
-  - Slides: [[slides](https://github.com/turing-knowledge-graphs/turing-defence-and-national-security/blob/main/resources/PICASO-Showcase.html)]
-- GUARD: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI
-  - PI: [Ernesto Jimenez-Ruiz](https://ernestojimenezruiz.github.io/)
-  - Web: [https://ernestojimenezruiz.github.io/projects/guard/](https://ernestojimenezruiz.github.io/projects/guard/)
-  - Slides: [[slides](https://github.com/turing-knowledge-graphs/turing-defence-and-national-security/blob/main/resources/GUARD_slides_april15.pdf)]
